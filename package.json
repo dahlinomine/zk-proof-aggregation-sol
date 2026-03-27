@@ -1,0 +1,10 @@
+{
+  "name": "zk-proof-aggregation-sol",
+  "version": "0.1.0",
+  "description": "Solidity contracts for aggregating multiple ZK proofs into a single verifiable transaction.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
